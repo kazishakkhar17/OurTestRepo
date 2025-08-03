@@ -11,9 +11,7 @@ This repository may include example files, test code, and practice experiments. 
 - Trying out basic project structures
 
 ## 🚀 How to Use
--This is a test line
+- This is a test line
 1. Clone the repository:
    ```bash
    git clone https://github.com/kazishakkhar17/OurTestRepo.git
-
-## This line is written in afridi branch
