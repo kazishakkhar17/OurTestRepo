@@ -3,3 +3,18 @@ div{
     padding: 20px;
     border-radius: 5px;
 }
+
+html {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+div {
+    margin: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
